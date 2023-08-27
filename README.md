@@ -50,8 +50,8 @@ personal repository
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/euthanas1a/euthanas1a/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://im3.ezgif.com/tmp/ezgif-3-67e5b3e784.gif"  />
+</div>
 
 ###
