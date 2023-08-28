@@ -51,7 +51,7 @@ personal repository
 ###
 
 <div align="center">
-  <img height="200" src= [["(https://giffiles.alphacoders.com/212/212876.gif)https://giffiles.alphacoders.com/212/212876.gif"(https://giffiles.alphacoders.com/212/212876.gif)https://giffiles.alphacoders.com/212/212876.gif ](https://giffiles.alphacoders.com/212/212876.gif)https://giffiles.alphacoders.com/212/212876.gif />
+  <img height="200" src= "21876.gif"/>
 </div>
 
 ###
