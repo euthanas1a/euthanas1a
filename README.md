@@ -51,7 +51,7 @@ personal repository
 ###
 
 <div align="center">
-  <img height="200" src= "212876.gif"/>
+  <img height="200" src= "city.gif"/>
 </div>
 
 ###
