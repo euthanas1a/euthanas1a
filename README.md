@@ -1,4 +1,4 @@
-# euthanasi1a
+# euthanas1a
 personal repository
 <h2 align="left">why hello there u sexy mfs</h2>
 
