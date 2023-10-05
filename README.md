@@ -56,6 +56,6 @@ personal repository
 
 ###
 
-<img src="![image](https://github.com/euthanas1a/euthanas1a/assets/98335791/eba4da01-d7b7-4db5-ba74-80537b15438b)" alt="Lucy">
+<img src="https://github.com/euthanas1a/euthanas1a/assets/98335791/eba4da01-d7b7-4db5-ba74-80537b15438b" alt="Lucy">
 
 ###
