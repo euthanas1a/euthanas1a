@@ -56,6 +56,6 @@ personal repository
 
 ###
 
-<img src="[wp11501452-lucy-cyberpunk-wallpapers.png](https://wallpapercave.com/wp/wp11501452.png)https://wallpapercave.com/wp/wp11501452.png" alt="Lucy">
+<img src="https://wallpapercave.com/wp/wp11501452.png" alt="Lucy">
 
 ###
