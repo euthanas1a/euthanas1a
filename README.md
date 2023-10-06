@@ -1,6 +1,7 @@
 # euthanas1a
 personal repository
 <h2 align="left">why hello there u sexy mfs</h2>
+<p>hello. i am not very enthusiastic as you can see. i am also very bored. aspiring full stack developer rn, aiming to double major for a CS and cybersecurity degree. i can be ambitious when i feel like it. those who know me will know me, might help do your CS homework if in good mood. message me through insta if needed. </p>
 
 ###
 
